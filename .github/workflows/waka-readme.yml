@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # runs at 10 AM UTC (6:00 PM Beijing time)
-    - cron: "0 10 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:

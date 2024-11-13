@@ -75,4 +75,6 @@ I'm currently interning in [IDEA](https://github.com/IDEA-Research/). Focused on
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CRIS-YANGYQ&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-<a rel="me" href="https://mastodon.nz/@Sudo_Overflow">Follow me on Mastodon</a>
+
+
+<img src="./assets/dark-contribution.svg" alt="GitHub User Contribution" />
