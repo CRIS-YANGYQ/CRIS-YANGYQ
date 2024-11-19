@@ -29,3 +29,10 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           SHOW_TITLE: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_TIMEZONE: true
+          UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"
+
+
+
+          
