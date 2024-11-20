@@ -70,7 +70,7 @@ I'm currently interning in [IDEA](https://github.com/IDEA-Research/). Focused on
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2024 - To: 17 November 2024
+From: 12 November 2024 - To: 18 November 2024
 
 Total Time: 5 hrs 5 mins
 
