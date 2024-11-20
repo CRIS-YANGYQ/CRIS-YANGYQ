@@ -24,7 +24,7 @@ jobs:
           ### customize
           SECTION_NAME: "waka"
           COMMIT_MESSAGE: "Updated simple waka stats section"
-          BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
+          BLOCKS: "⬜🟨🟩"
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
@@ -32,6 +32,7 @@ jobs:
           SHOW_DAYS_OF_WEEK: true
           SHOW_TIMEZONE: true
           UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"
+          SHOW_LINES_OF_CODE: true
 
 
 
