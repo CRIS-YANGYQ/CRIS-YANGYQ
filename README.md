@@ -64,10 +64,10 @@ I'm currently interning in [IDEA](https://github.com/IDEA-Research/). Focused on
 ## 🖥 &nbsp;Past work
 
 ### Undergraduate works
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CRIS-YANGYQ&repo=2023CUMCM-C&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CRIS-YANGYQ&repo=SRP-2022&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CRIS-YANGYQ&repo=2023CUMCM-C&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CRIS-YANGYQ/2023CUMCM-C) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CRIS-YANGYQ&repo=SRP-2022&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CRIS-YANGYQ/SRP-2022)
 
 ### Highlight Contributions
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IDEA-Research&repo=ChatRex&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IDEA-Research&repo=T-Rex&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IDEA-Research&repo=ChatRex&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/IDEA-Research/ChatRex) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IDEA-Research&repo=T-Rex&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/IDEA-Research/T-Rex)
 
 &nbsp;
 ## 🌱 &nbsp;Working Time
