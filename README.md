@@ -74,7 +74,7 @@ I'm currently interning in [IDEA](https://github.com/IDEA-Research/). Focused on
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2024 - To: 08 December 2024
+From: 12 November 2024 - To: 09 December 2024
 
 Total Time: 42 hrs 7 mins
 
