@@ -3,13 +3,13 @@
 
 # 👋 &nbsp;Hi there
 
-As an undergraduate student at [S.C.U.T](https://www.scut.edu.cn/), I'm an AI learner based in China. I enjoy coding open-source projects that solve unique problems. I love diving into complex problems and finding solutions with data science and machine learning. I'm currently working on a project that uses Computer Vision and Natural Language Processing to improve the object detection in IDEA research. Slightly obsessed with Home Automation and Home Labs. 
+As an undergraduate student at [S.C.U.T](https://www.scut.edu.cn/), I'm an AI learner based in China. I enjoy coding open-source projects that solve unique problems. I love diving into complex problems and finding solutions with data science and machine learning. I'm currently diving into Affective Computing in HCC Lab[https://scuthcc.top/]. Slightly obsessed with Home Automation and Home Labs. 
 
 &nbsp;
 
 ## 👇 &nbsp;Current project
 
-I'm currently interning in [IDEA](https://github.com/IDEA-Research/). Focused on Object Detection and Natural Language Processing, I'm working on several projects, including [T-REX](https://github.com/IDEA-Research/T-Rex), Chat-Rex (TBD).
+I'm currently in HCC Lab[https://scuthcc.top/]. Focused on Human-Computer Interaction and Affective Computing.
 
 
 <!-- ![Tweetormator](/assets/tweetormator.jpg) -->
