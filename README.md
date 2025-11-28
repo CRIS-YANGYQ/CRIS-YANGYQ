@@ -9,7 +9,7 @@ As an undergraduate student at [S.C.U.T](https://www.scut.edu.cn/), I'm an AI le
 
 ## 👇 &nbsp;Current project
 
-I'm currently in HCC Lab[https://scuthcc.top/]. Focused on Human-Computer Interaction and Affective Computing.
+I'm currently in [HCC Lab](https://scuthcc.top/). Focused on Human-Computer Interaction and Affective Computing.
 
 
 <!-- ![Tweetormator](/assets/tweetormator.jpg) -->
