@@ -94,4 +94,3 @@ YAML          1 hr 28 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
-<img src="./assets/dark-contribution.svg" alt="GitHub User Contribution" />
