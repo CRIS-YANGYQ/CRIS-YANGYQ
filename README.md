@@ -58,7 +58,7 @@ I'm currently in [HCC Lab](https://scuthcc.top/). Focused on Human-Computer Inte
          alt="Jupyter Notebook" width="50" height="50">
   </a>
 &nbsp;
-<div > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRIS-YANGYQ&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" /> </div>
+<div > <img src="https://github-readme-stats.shion.dev/api?username=CRIS-YANGYQ" /> </div>
 
 
 ## 🖥 &nbsp;Past work
