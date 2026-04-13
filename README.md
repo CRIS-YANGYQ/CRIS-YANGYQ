@@ -69,10 +69,10 @@ I'm currently in [HCC Lab](https://scuthcc.top/). Focused on Human-Computer Inte
 > 🏆 **ACL 2026 Main** · 📄 [arXiv:2604.09162](https://arxiv.org/abs/2604.09162) · 🏠 [Project Homepage](https://scut-hai.github.io/Persona-E2/)
 
 ### Undergraduate works
-[![Readme Card](https://github-readme-stats-gules-theta-94.vercel.app/api/pin/?username=CRIS-YANGYQ&repo=2023CUMCM-C&theme=dark)](https://github.com/CRIS-YANGYQ/2023CUMCM-C) &nbsp; [![Readme Card](https://github-readme-stats-gules-theta-94.vercel.app/api/pin/?username=CRIS-YANGYQ&repo=SRP-2022&theme=dark)](https://github.com/CRIS-YANGYQ/SRP-2022)
+[![Readme Card](https://cris-yangyq.vercel.app/api/pin/?username=CRIS-YANGYQ&repo=2023CUMCM-C&theme=dark)](https://github.com/CRIS-YANGYQ/2023CUMCM-C) &nbsp; [![Readme Card](https://cris-yangyq.vercel.app/api/pin/?username=CRIS-YANGYQ&repo=SRP-2022&theme=dark)](https://github.com/CRIS-YANGYQ/SRP-2022)
 
 ### Highlight Contributions
-[![Readme Card](https://github-readme-stats-gules-theta-94.vercel.app/api/pin/?username=IDEA-Research&repo=ChatRex&theme=dark)](https://github.com/IDEA-Research/ChatRex) &nbsp; [![Readme Card](https://github-readme-stats-gules-theta-94.vercel.app/api/pin/?username=IDEA-Research&repo=T-Rex&theme=dark)](https://github.com/IDEA-Research/T-Rex)
+[![Readme Card](https://cris-yangyq.vercel.app/api/pin/?username=IDEA-Research&repo=ChatRex&theme=dark)](https://github.com/IDEA-Research/ChatRex) &nbsp; [![Readme Card](https://cris-yangyq.vercel.app/api/pin/?username=IDEA-Research&repo=T-Rex&theme=dark)](https://github.com/IDEA-Research/T-Rex)
 
 &nbsp;
 
