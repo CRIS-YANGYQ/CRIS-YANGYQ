@@ -57,9 +57,10 @@ I'm currently in [HCC Lab](https://scuthcc.top/). Focused on Human-Computer Inte
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" 
          alt="Jupyter Notebook" width="50" height="50">
   </a>
-&nbsp;
-<div > <img src="https://github-readme-stats.shion.dev/api?username=CRIS-YANGYQ" /> </div>
 
+
+## 📊 &nbsp;Github Stats
+![Github Stats](https://github-readme-stats.shion.dev/api?username=CRIS-YANGYQ)
 
 ## 🖥 &nbsp;Past work
 ### Master Works
@@ -74,6 +75,7 @@ I'm currently in [HCC Lab](https://scuthcc.top/). Focused on Human-Computer Inte
 [![Readme Card](https://github-readme-stats-gules-theta-94.vercel.app/api/pin/?username=IDEA-Research&repo=ChatRex&theme=dark)](https://github.com/IDEA-Research/ChatRex) &nbsp; [![Readme Card](https://github-readme-stats-gules-theta-94.vercel.app/api/pin/?username=IDEA-Research&repo=T-Rex&theme=dark)](https://github.com/IDEA-Research/T-Rex)
 
 &nbsp;
+
 ## 🌱 &nbsp;Working Time
 <!--START_SECTION:waka-->
 
@@ -90,11 +92,6 @@ YAML          1 hr 28 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 <!--END_SECTION:waka-->
-## 📊 &nbsp;Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=CRIS-YANGYQ&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CRIS-YANGYQ&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 
 
