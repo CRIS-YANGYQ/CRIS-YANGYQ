@@ -12,8 +12,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-        # this action name
-      - uses: athul/waka-readme@master # do NOT replace with anything else
+      - uses: athul/waka-readme@master # 继续使用 athul 的轻量级插件
         with:
           ### required
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -25,15 +24,10 @@ jobs:
           SECTION_NAME: "waka"
           COMMIT_MESSAGE: "Updated simple waka stats section"
           BLOCKS: "⬜🟨🟩"
-          TIME_RANGE: all_time
+          
+          # 修改为你想要的一个月时间范围
+          TIME_RANGE: last_30_days
+          
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           SHOW_TITLE: true
-          SHOW_DAYS_OF_WEEK: true
-          SHOW_TIMEZONE: true
-          UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"
-          SHOW_LINES_OF_CODE: true
-
-
-
-          
