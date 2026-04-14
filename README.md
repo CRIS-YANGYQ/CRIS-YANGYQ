@@ -77,7 +77,6 @@ I'm currently in [HCC Lab](https://scuthcc.top/). Focused on Human-Computer Inte
 &nbsp;
 
 ## 🌱 &nbsp;Working Time
-<!--START_SECTION:waka-->
 
 ```txt
 From: 12 November 2024 - To: 15 December 2024
@@ -91,7 +90,7 @@ Bash          1 hr 35 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 YAML          1 hr 28 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.44 %
 ```
 
-<!--END_SECTION:waka-->
-
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 
 
