@@ -83,7 +83,7 @@ I'm currently in [HCC Lab](https://scuthcc.top/). Focused on Human-Computer Inte
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2026 - To: 20 April 2026
+From: 22 March 2026 - To: 21 April 2026
 
 Total Time: 10 hrs 9 mins
 
