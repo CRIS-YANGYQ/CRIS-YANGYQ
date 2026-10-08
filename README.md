@@ -83,15 +83,15 @@ I'm currently in [HCC Lab](https://scuthcc.top/). Focused on Human-Computer Inte
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2026 - To: 05 October 2026
+From: 06 September 2026 - To: 06 October 2026
 
-Total Time: 30 hrs 54 mins
+Total Time: 30 hrs 13 mins
 
-Python       20 hrs 45 mins        🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜   67.16 %
-Markdown     7 hrs 43 mins         🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.97 %
-Bash         55 mins               🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.98 %
-Batchfile    40 mins               🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.21 %
-Other        30 mins               🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.67 %
+Python       20 hrs 45 mins        🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜   68.68 %
+Markdown     7 hrs 43 mins         🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.53 %
+Bash         55 mins               🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.04 %
+Other        30 mins               🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.71 %
+SSH Config   11 mins               ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.62 %
 ```
 
 <!--END_SECTION:waka-->
